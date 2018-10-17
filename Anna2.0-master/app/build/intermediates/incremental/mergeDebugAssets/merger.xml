@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Downloads\Anna2.0-master\Anna2.0-master\app\src\main\assets"><file name="databases/Annadb.db" path="D:\Downloads\Anna2.0-master\Anna2.0-master\app\src\main\assets\databases\Annadb.db"/></source><source path="D:\Downloads\Anna2.0-master\Anna2.0-master\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\Downloads\Anna2.0-master\Anna2.0-master\app\src\debug\assets"/></dataSet></merger>

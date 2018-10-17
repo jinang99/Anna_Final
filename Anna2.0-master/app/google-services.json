@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "706198309200",
+    "firebase_url": "https://anna-74f41.firebaseio.com",
+    "project_id": "anna-74f41",
+    "storage_bucket": "anna-74f41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706198309200:android:e452117411311cdc",
+        "android_client_info": {
+          "package_name": "com.example.anna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706198309200-0ot8an3em86sapqfod0ptlbe0nmg9tbf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anna",
+            "certificate_hash": "27ca79c9c167ce5de48f4d519e077300a655c26c"
+          }
+        },
+        {
+          "client_id": "706198309200-10u6argijnl7hipgfbrqs9plhnisdu04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe_OJnThai6J8uv627ivRltIh5Svah9VA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706198309200-10u6argijnl7hipgfbrqs9plhnisdu04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
