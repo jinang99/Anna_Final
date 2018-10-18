@@ -4,6 +4,7 @@ ADDED from D:\Jinang\Android_projects\app\src\main\AndroidManifest.xml:2:1-28:12
 INJECTED from D:\Jinang\Android_projects\app\src\main\AndroidManifest.xml:2:1-28:12
 INJECTED from D:\Jinang\Android_projects\app\src\main\AndroidManifest.xml:2:1-28:12
 INJECTED from D:\Jinang\Android_projects\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.jaredrummler:material-spinner:1.1.0] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\material-spinner-1.1.0.aar\bffd04632ba1c5d869d5809a25bd4d0d\AndroidManifest.xml:18:1-25:12
 MERGED from [com.google.firebase:firebase-storage:16.0.1] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.0.1.aar\8a8476f672849b3ddb981a23b1e93cc6\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\4928379b8a7d4a6f1d01909e2b5b2705\AndroidManifest.xml:17:1-38:12
 MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\lib-1.0.2.aar\3cdcd1c5a71ce048aee85e5d773415ac\AndroidManifest.xml:2:1-19:12
@@ -18,6 +19,7 @@ MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\JINANG\.gradle\cac
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\ab8ca42603b7f4d689c76eba80a67949\AndroidManifest.xml:17:1-28:12
 MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\com.amulyakhare.textdrawable-1.0.1.aar\2ba1f06601aba6239c5a6956f8d2aa38\AndroidManifest.xml:2:1-14:12
 MERGED from [info.hoang8f:fbutton:1.0.5] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\fbutton-1.0.5.aar\94b48a8777aa96d53b1f50bc443aa788\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\5c248cdf100d5f595c6c8feef0e1a169\AndroidManifest.xml:17:1-28:12
 MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\b561b190e5ebc0555ada61653d59592e\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\402e0ed433ee0c9ae37d3c4400b0b1ad\AndroidManifest.xml:17:1-34:12
 MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\664c1c4f755ef38d22152a4e37d4c3ef\AndroidManifest.xml:17:1-55:12
@@ -35,7 +37,6 @@ MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users
 MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\324c9910c951652186a972ab1843edc6\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\7fe3601321bd190a8a848152e0dc28cc\AndroidManifest.xml:2:1-8:12
 MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\8259fc084d4964e79f061bbdc462c5a2\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:transition:26.1.0] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\5c248cdf100d5f595c6c8feef0e1a169\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e274613a61ba9b2ac3663ebc96389c62\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\699d7818e59b998b72537aef96fe12b6\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\f9c927eeb81a6fd511387e361585579f\AndroidManifest.xml:17:1-28:12
@@ -85,6 +86,8 @@ MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\JINANG\.gradle
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\ab8ca42603b7f4d689c76eba80a67949\AndroidManifest.xml:22:5-26:19
 MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\com.amulyakhare.textdrawable-1.0.1.aar\2ba1f06601aba6239c5a6956f8d2aa38\AndroidManifest.xml:12:5-20
 MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\com.amulyakhare.textdrawable-1.0.1.aar\2ba1f06601aba6239c5a6956f8d2aa38\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:transition:26.1.0] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\5c248cdf100d5f595c6c8feef0e1a169\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\5c248cdf100d5f595c6c8feef0e1a169\AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\b561b190e5ebc0555ada61653d59592e\AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\b561b190e5ebc0555ada61653d59592e\AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\402e0ed433ee0c9ae37d3c4400b0b1ad\AndroidManifest.xml:26:5-32:19
@@ -111,8 +114,6 @@ MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\User
 MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\324c9910c951652186a972ab1843edc6\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\8259fc084d4964e79f061bbdc462c5a2\AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\8259fc084d4964e79f061bbdc462c5a2\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:transition:26.1.0] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\5c248cdf100d5f595c6c8feef0e1a169\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:transition:26.1.0] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\5c248cdf100d5f595c6c8feef0e1a169\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e274613a61ba9b2ac3663ebc96389c62\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e274613a61ba9b2ac3663ebc96389c62\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\699d7818e59b998b72537aef96fe12b6\AndroidManifest.xml:25:5-29:19
@@ -183,6 +184,8 @@ uses-sdk
 INJECTED from D:\Jinang\Android_projects\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Jinang\Android_projects\app\src\main\AndroidManifest.xml
 INJECTED from D:\Jinang\Android_projects\app\src\main\AndroidManifest.xml
+MERGED from [com.jaredrummler:material-spinner:1.1.0] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\material-spinner-1.1.0.aar\bffd04632ba1c5d869d5809a25bd4d0d\AndroidManifest.xml:21:5-23:41
+MERGED from [com.jaredrummler:material-spinner:1.1.0] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\material-spinner-1.1.0.aar\bffd04632ba1c5d869d5809a25bd4d0d\AndroidManifest.xml:21:5-23:41
 MERGED from [com.google.firebase:firebase-storage:16.0.1] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.0.1.aar\8a8476f672849b3ddb981a23b1e93cc6\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-storage:16.0.1] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.0.1.aar\8a8476f672849b3ddb981a23b1e93cc6\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\4928379b8a7d4a6f1d01909e2b5b2705\AndroidManifest.xml:20:5-44
@@ -211,6 +214,8 @@ MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\JINANG
 MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\com.amulyakhare.textdrawable-1.0.1.aar\2ba1f06601aba6239c5a6956f8d2aa38\AndroidManifest.xml:8:5-10:41
 MERGED from [info.hoang8f:fbutton:1.0.5] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\fbutton-1.0.5.aar\94b48a8777aa96d53b1f50bc443aa788\AndroidManifest.xml:7:5-9:41
 MERGED from [info.hoang8f:fbutton:1.0.5] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\fbutton-1.0.5.aar\94b48a8777aa96d53b1f50bc443aa788\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:transition:26.1.0] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\5c248cdf100d5f595c6c8feef0e1a169\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\5c248cdf100d5f595c6c8feef0e1a169\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\b561b190e5ebc0555ada61653d59592e\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\b561b190e5ebc0555ada61653d59592e\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\402e0ed433ee0c9ae37d3c4400b0b1ad\AndroidManifest.xml:20:5-44
@@ -245,8 +250,6 @@ MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\J
 MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\7fe3601321bd190a8a848152e0dc28cc\AndroidManifest.xml:6:5-44
 MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\8259fc084d4964e79f061bbdc462c5a2\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\8259fc084d4964e79f061bbdc462c5a2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.1.0] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\5c248cdf100d5f595c6c8feef0e1a169\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.1.0] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\5c248cdf100d5f595c6c8feef0e1a169\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e274613a61ba9b2ac3663ebc96389c62\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e274613a61ba9b2ac3663ebc96389c62\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\JINANG\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\699d7818e59b998b72537aef96fe12b6\AndroidManifest.xml:21:5-23:60

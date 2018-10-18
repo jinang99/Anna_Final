@@ -10,9 +10,9 @@ public final class R {
     public static final class attr {
         public static final int buttonColor = 0x7f030049;
         public static final int cornerRadius = 0x7f03007f;
-        public static final int shadowColor = 0x7f030167;
-        public static final int shadowEnabled = 0x7f030168;
-        public static final int shadowHeight = 0x7f030169;
+        public static final int shadowColor = 0x7f03016d;
+        public static final int shadowEnabled = 0x7f03016e;
+        public static final int shadowHeight = 0x7f03016f;
     }
     public static final class color {
         public static final int fbutton_color_alizarin = 0x7f050049;
@@ -48,7 +48,7 @@ public final class R {
         public static final int fbutton_default_shadow_height = 0x7f060089;
     }
     public static final class styleable {
-        public static final int[] FButton = { 0x7f030049, 0x7f03007f, 0x7f030167, 0x7f030168, 0x7f030169 };
+        public static final int[] FButton = { 0x7f030049, 0x7f03007f, 0x7f03016d, 0x7f03016e, 0x7f03016f };
         public static final int FButton_buttonColor = 0;
         public static final int FButton_cornerRadius = 1;
         public static final int FButton_shadowColor = 2;
